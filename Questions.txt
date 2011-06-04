@@ -1,0 +1,25 @@
+Question # 1
+One penny has a 19.05 millimeters in diameter, that is 0.01905 meters
+Two rows of pennies align in the the way Figure A shows tacked 0.035 meters
+Divide the 2,737 meters of the Golden Gate Bridge with the 0.1905 meters of a Penny diameter. So get how much ONE row of pennies we can have.
+2737/0.01905 = 143674.5 pennies
+Now we divide 27 meters with 0.035 meters, which is the width of TWO rows of pennies and then multiply that by 2.
+27/0.035 = 771.42
+771.42*2 = 1,542.86 pennies
+And we multiply those two numbers to get a total of 221,669,228 pennies that will fit on the Golden Gate Bridge without overlapping.
+
+
+Question # 2
+In a 16:9 ratio means that by every 16 pixels of width there are 9 pixels of height. So if we divide 16 by 9 and then multiply that number by 12 we will get the height a 12 pixel image needs to be at a 16:9 ratio.
+16/9 = 1.777
+12*1.777 = 21.333
+Answer: The height of a 12 pixel wide image should have a 21 pixel height to have a near perfect 16:9 ratio.
+
+Question # 3
+See the file chess.php. Its not working as expected :(
+After my first attempt at it(chess.php) I started investigating in correct ways to do it. I found the Warnsdorff's algorithm. Since that is an already a known solution I thought I would take a risk and only show my first attempt. 
+
+Question # 4
+I need IGN because I want to become one of the best software developers. And the only way to become that is to learn from the best and work with the best. :D
+
+IGN needs me because I am a fast learner, I am capable of working in groups, I am always eager to learn new ways of doing stuff and hoping to do them with the best and newest tendencies, I love using new technologies, I also love gaming but never had much time to play because of school and work. So I would love to love my job :P
